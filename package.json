@@ -1,0 +1,13 @@
+{
+  "name": "secure-telegram-bot",
+  "version": "2.0.0",
+  "description": "Professional Secure Telegram Chat Bot",
+  "main": "secure-chat-pass.js",
+  "scripts": {
+    "start": "node secure-chat-pass.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
